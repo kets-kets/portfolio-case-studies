@@ -106,7 +106,7 @@
 - **Bash Scripts**: Автоматизация деплоя
 
 ### Security
-- **Zero-Trust Secrets**: Все секреты в `.env` (НИКОГДА не в Git)
+- **Zero-Trust Secrets**: Секреты в `.env` файлах
 - **SSL/TLS**: Обязательное шифрование Node A ↔ Node B
 - **OWASP Top 10**: Compliance (SQL injection, XSS, Broken Auth)
 - **Logging**: Маскировка токенов (`sk_...****`)
